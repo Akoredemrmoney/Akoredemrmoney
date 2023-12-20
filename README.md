@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Steffy
+- 👀 I’m interested in helping peole with my online skills...
+- 💞️ I’m looking to collaborate on Growth and marketing strateges with ecommerce store owner...
+- 📫 How to reach me ...
+
+<!---
+Steffy is a ✨ special ✨ repository because its `README.md` (good) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
